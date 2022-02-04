@@ -6,6 +6,5 @@ public class HelloWorld {
         String nameLast = "Satterfield";
         int age = 29;
         System.out.println(nameFirst+" "+nameLast+" is "+age+" years old.");
-
     }
 }
